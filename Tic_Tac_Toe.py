@@ -1,3 +1,8 @@
+# PE1---Tic-Tac-Toe
+# Python Essentials - Part 1 (Basics)
+# 4.7.2.1 PROJECT: Tic-Tac-Toe
+# https://edube.org/learn/pe-1/project-tic-tac-toe-4
+
 def display_board(board, mode=0):
     # The function accepts one parameter containing the board's current status
     # and prints it out to the console.
