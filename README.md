@@ -1,7 +1,14 @@
 # PE1---Tic-Tac-Toe
-Python Essentials - Part 1 (Basics)
-4.7.2.1 PROJECT: Tic-Tac-Toe
-https://edube.org/learn/pe-1/project-tic-tac-toe-4
+**Python Essentials - Part 1 (Basics)**
+
+**Module 4: Functions, tuples, dictionaries, data processing and exceptions**
+**Project "4.7.2.1 PROJECT: Tic-Tac-Toe"**
+
+See [Python Essentials - Part 1 (Basics) on OpenEDG](https://edube.org/study/pe1)
+
+**LAB Objectives**
+- perfecting the student's skills in using Python for solving complex problems;
+- integrating programming techniques in one program consisting of many various parts.
 
 ## Standard grid 3x3
 
