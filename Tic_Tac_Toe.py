@@ -232,8 +232,13 @@ while gameStatus == gameContinue or gameStatus == gameStart:
                 board[row][col] = caseNumber
 
         # First move by the computer
-        # It always puts its first 'X' in the middle of the board (for size = 3)
-        board[1][1] = tickComputer
+        # It always puts its first 'X' in the middle of the board - ONLY FOR A STANDARD GRID 3x3 (case number = 5)
+        randValue = 5
+        rowBoard = (randValue - 1) // size
+        colBoard = (randValue - 1) % size
+        board[rowBoard][colBoard] = tickComputer
+        print("\nComputer plays [", randValue, "]", sep="")
+        print("")
         
         # Change the round
         round = tickPlayer
